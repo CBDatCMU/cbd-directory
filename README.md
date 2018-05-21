@@ -1,7 +1,7 @@
 # cbd-directory
 Computational Biology Department Directory
 
-## Instructions for installing reveal.js
+## Instructions for running reveal.js
 
 - Install Node.js (4.0.0 or later)
 
